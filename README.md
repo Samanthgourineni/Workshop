@@ -7,10 +7,10 @@ Testing DOM manipulations with qUnit
 
 ## Team Member and Snap
 
-1. Samanth Gourineni
-1.Deepak Sai Krishna Jayanthi
-1.Abhishek Telugu
-1.Koteswara Harshith Gudapati
+1. Samanth Gourineni.
+1.Deepak Sai Krishna Jayanthi.
+1.Abhishek Telugu.
+1.Koteswara Harshith Gudapati.
 
 ![image](https://github.com/Samanthgourineni/Workshop/raw/master/Team_Members.PNG)
 
