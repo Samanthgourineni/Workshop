@@ -5,9 +5,13 @@ Testing DOM manipulations with qUnit
 ## Github Repository URL
 - [click here](https://github.com/Samanthgourineni/Workshop ) to visit repository.
 
-## Team slide
+## Team Member and Snap
+1. Samanth Gourineni
+1.Deepak Sai Krishna Jayanthi
+1.Abhishek Telugu
+1.Koteswara Harshith Gudapati
 
-![image]()
+![image](https://github.com/Samanthgourineni/Workshop/blob/master/Team_Members.PNG)
 
 ## References
 
