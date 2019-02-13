@@ -16,12 +16,12 @@ window.onload = function () {
 
         assert.ok(isTermsAvailable(), "Terms And Conditions Avalailable");
 
-        assert.equal("This is True",paragraphvalue,"Paragraph  Test!");
+        assert.equal(paragraphvalue,"This is True","Paragraph  Test!");
 
         ChangeParaValue("manupulator","This is True");
         const paragraphvalueChanged=document.getElementById("manupulator").innerHTML;
 
-        assert.equal("This is True",paragraphvalueChanged,"Paragraph  Test!!");
+        assert.equal(paragraphvalueChanged,"This is True","Paragraph  Test!!");
 
 
         //console.log(elems);
